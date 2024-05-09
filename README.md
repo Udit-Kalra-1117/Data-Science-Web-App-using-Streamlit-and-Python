@@ -22,10 +22,9 @@ The second map shows the count of collisions in New York City using a slider whi
 
 Output:
 
-<img width="412" alt="image" src="https://user-images.githubusercontent.com/80574577/177013305-869b7c5f-e6d2-4d1b-b129-3b86c1f8e33a.png">
 
 
-<img width="1440" alt="Screenshot 2024-05-09 at 23 38 02" src="https://github.com/Udit-Kalra-1117/Data-Science-Web-App-using-Streamlit-and-Python/assets/80574577/d4a8f61e-a6b3-4f88-b0f1-9cc4ea6a307c">
+
 
 
 
