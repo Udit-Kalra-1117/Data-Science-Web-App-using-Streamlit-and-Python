@@ -27,6 +27,8 @@ Output:
 
 
 
+
+
 Following this map, we can see the graph of number of collisions occurring during the chosen hour in the slider at an interval of 10 minutes each.
 
 
